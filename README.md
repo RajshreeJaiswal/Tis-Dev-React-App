@@ -4,7 +4,7 @@ TIS-DEV website of Tula' Family ia a benchmark for boarding schools and leave no
 
 ## Deployed Link
 
-You can access the deployed version of TIS-DEV [here]().
+You can access the deployed version of TIS-DEV [here](https://tis-dev-react-app.vercel.app/).
 
 ## Tech Stack
 
