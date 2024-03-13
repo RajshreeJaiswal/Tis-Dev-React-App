@@ -1,6 +1,6 @@
 # TIS-DEV
 
-Welcome to NetPuppy, your friendly neighborhood web application for managing your pet's needs! NetPuppy allows you to keep track of your pet's activities, appointments, and health records with ease.
+TIS-DEV website of Tula' Family benchmark for boarding schools and leave no stone unturned in fulfil it. That perseveres to follow and spread the beliefs of the institution
 
 ## Deployed Link
 
