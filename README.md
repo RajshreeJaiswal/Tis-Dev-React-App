@@ -1,6 +1,6 @@
 # TIS-DEV
 
-TIS-DEV website of Tula' Family benchmark for boarding schools and leave no stone unturned in fulfil it. That perseveres to follow and spread the beliefs of the institution
+TIS-DEV website of Tula' Family ia a benchmark for boarding schools and leave no stone unturned in fulfil it. That perseveres to follow and spread the beliefs of the institution
 
 ## Deployed Link
 
