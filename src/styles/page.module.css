@@ -117,7 +117,7 @@
     width: 80px;
 }
 .ArticleSection > div:first-child button:hover,
-.testimonySection > div:last-child button:hover{
+.TestimonySection > div:last-child button:hover{
     box-shadow: 0px 5px 20px 0px #0000001a
 }
 

@@ -4,6 +4,8 @@ import styles from "../../styles/page.module.css"
 import CardComponent from '../SubComponent/cardComponent'
 import CountUp from 'react-countup'
 import Footer from '../SubComponent/Footer'
+import { FaArrowRight } from "react-icons/fa";
+import { FaPlayCircle } from "react-icons/fa";
 
 export default function Home() {
   return (
@@ -24,7 +26,7 @@ export default function Home() {
             />
             <button>
                 SEE ALL ACTIVITIES
-                <span class="material-symbols-outlined">arrow_right_alt</span>
+                <span class="material-symbols-outlined"><FaArrowRight /></span>
             </button>
           </div>
           <div>
@@ -46,7 +48,7 @@ export default function Home() {
       <section className={styles.VideoSection}>
         <div style={{backgroundImage: `url(https://s3-alpha-sig.figma.com/img/a28b/9f5f/b3c65245636894337842651c84e28ada?Expires=1711324800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hGIdhsECkBBA6ZEicDZNtsLwhOeEprV62dk061u6lL-N0kAVQj1Z9D~OjRTApZrpmA-wwdW9bvnHixg~wN5CFhIIUlwq~wqJj~vvPHSOgmvKjS5TeEYP7aRQrAhqjNzqVXUar7ZDCQfsyxl5jOktszJDPMQoi3YnqrQNiIM-5lSpZzv89OcK5u5B9qB6FF6nTnb2Jy7Zh~WbS6ZEMbm~8OuC~D-HrTrwsuzKvWFcCKs7WSKK3HufvRfFBqsr66-lfj55GBuLxP2kurAZs219F3hfsR6QDAXLqhz1fTBsoRv3e~StxwhVWg8bljDGNrxSJ5wsPGtwjNk-zNX2-XNBCQ__)`}}>
           <div>
-           <span class="material-symbols-outlined">play_circle</span>
+           <span class="material-symbols-outlined"><FaPlayCircle /></span>
           </div>
         </div>
       </section>
@@ -59,7 +61,7 @@ export default function Home() {
           <p>Using the latest research on how girls learn best, we designed an innovative modular schedule, personalized for each student. Our girls are focused, not overwhelmed. “Girls Rule” isn’t just a saying here. Develop leadership skills, build compassion, gain responsibility, and prepare to change the world.</p>
           <button>
               LEARN MORE
-              <span class="material-symbols-outlined">arrow_right_alt</span>
+              <span class="material-symbols-outlined"><FaArrowRight /></span>
           </button>
         </div>
       </section>
@@ -151,7 +153,7 @@ export default function Home() {
             />
             <button>
                 SEE ALL ACTIVITIES
-                <span class="material-symbols-outlined">arrow_right_alt</span>
+                <span class="material-symbols-outlined"><FaArrowRight /></span>
             </button>
           </div>
           <div>
