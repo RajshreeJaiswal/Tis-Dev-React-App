@@ -20,3 +20,13 @@ To use TIS-DEV locally, follow these steps:
 3. Start the application using `npm start`.
 
 If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. We appreciate your feedback!
+
+## Screenshots
+
+- Desktop
+
+![Screenshot 1](https://github.com/RajshreeJaiswal/Tis-Dev-React-App/blob/main/ScreenShots/desktop.png)
+
+- Mobile
+
+![Screenshot 2](https://github.com/RajshreeJaiswal/Tis-Dev-React-App/blob/main/ScreenShots/moblie.png)
